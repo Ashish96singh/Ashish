@@ -1,0 +1,20 @@
+                                              Web Tecnology Syllabus
+
+
+Unit -I                                                         [10]
+PHP Introduction: PHP Evaluation, Environment Setup, Syntax Overview, PHP Echo Data types, Variables, Constants, Operator, Comments, Expressions, Flow control statements, PHP GET & POST methods, Web Contents.
+PHP Arrays & Object: Indexed Vs Associative arrays, identifying elements of an array, storing data in arrays, Multidimensional arrays, converting between arrays and variables, Traversing arrays, Sorting. Objects: Creating an object, accessing properties and methods, Declaring a class, Introspection.
+
+Unit- II                                                         [10]
+Functions & Strings: Parametrized Function, PHP Call by value, PHP Call by Reference, Default arguments, Variable arguments, recursive functions, variable scope, return values. Strings: Accessing individual characters, cleaning strings, String functions encoding and escaping, comparing strings, manipulating and searching strings.
+PHP Forms: Form Handling, Form Validation, Form Required, Form URL/Email, Form Complete.
+PHP File Handling: Understanding file & Directory, File functions, working with directories, building a text editor, File Uploading & Downloading.
+
+
+
+
+
+  Unit-III                                                       [10]
+PHP MySQL: Connection with MYSQL database, CRUD Operations, setting query parameter, executing query on MYSQL, PHP Joins operations.
+PHP Session & Cookies: Starting & Destroying PHP Session, turning on auto session, Anatomy of cookie, Setting-accessing-deleting cookies with PHP, Sessions without cookies.  
+CakePHP: Understanding the MVC Pattern Models, Configuration CakePHP, setting up Cake PHP with apache Environment, Configuration CakePHP to work with database.

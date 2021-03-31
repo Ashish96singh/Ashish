@@ -1,0 +1,22 @@
+                      CLOUD COMPUTING LAB SYLLABUS
+Unit I:
+1. Create Web App in Azure and publish using File Explorer
+2. Create Web App in Azure and publish using third party tool.
+3. Create Web App in Azure and publish using Github.
+4. Create Web App in Azure and publish using Visual Studio
+
+
+Unit II:
+5. Create Logic App in Azure
+6. Create a word press blog using Azure.
+7. Configure two web apps and manage the traffic between them using traffic manager.
+8. Create a Virtual Machine and configure IIS server on VM.
+
+
+Unit III:
+9. Create and maintain cloud storage using Blob.
+10. Create and maintain cloud storage using File storage.
+11. Create and configure content delivery network (CDN).
+12. Create a sql database and migrate it on cloud.
+13. Azure Active Directory.
+ 

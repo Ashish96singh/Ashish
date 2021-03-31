@@ -1,0 +1,73 @@
+                                                                       Python Programming Syllabus
+
+Unit-I					[15]
+
+1.	Write a program to print twin primes less than 1000. If two consecutive odd numbers are both prime then they are known as twin primes
+
+
+2.	Write a program to implement these formulae of permutations and combinations. Number of permutations of n objects taken r at a time: p(n, r) = n! / (n-r)!. Number of combinations of n objects taken r at a time is: c(n, r) = n! / (r!*(n-r)!) = p(n,r) / r!
+
+
+3.	Two different numbers are called amicable numbers if the sum of the proper divisors of each is equal to the other number. For example 220 and 284 are amicable numbers. Sum of proper divisors of 220 = 1+2+4+5+10+11+20+22+44+55+110 = 284 Sum of proper divisors of 284 = 1+2+4+71+142 = 220 Write a function to print pairs of amicable numbers in a range
+
+
+4.	WAP to get user id, user name, user age from user and based on the entered id print the details foe particular user. Hint: us dictionary. 
+
+
+5.	Write a program to perform various operations on tuples such as adding tuple, replacing tuple, slicing tuple and deleting tuple. 
+
+
+6.	Implement a Student class with information such as rollno, name, class. The information must be entered by the user. 
+
+7.	
+
+
+8.	Write a python program to generate a simple bar graph using Pyplot. The graph should be properly labeled.
+
+
+9.	Write a python program to generate Pie-chart using Pyplot. The graph should be properly labeled.
+
+
+10.	Write a Python program to plot the function y = x2 using the pyplot or matplotlib libraries.
+
+
+11.	Write a program in Python to compute the greatest common divisor and the least common multiple of two integers.
+
+
+12.	Write a program in Python to test if a number is equal to the sum of the cubes of its digits. Find the smallest and largest such numbers in the range of 100 to
+
+
+13.	Write a program in python to read sort a list of integer elements using the bubble sort method. Display the sorted element on the screen.
+
+
+14.	Write a program in python to find out the frequency of each element in a list using a dictionary.
+
+
+15.	Implement data anlaysis on dataset in following modules:
+a.	Importing the data
+b.	Data Wrangling
+c.	EDA
+d.	Model Development
+e.	Model Evaluation and Refinement
+
+
+16.	Implement data visualization on dataset in following modules:
+a.	Histogram
+b.	Column Chart
+c.	Box plot chart
+d.	Pie chart
+e.	Scatter plot
+
+
+17.	Implement django on python in following modules:
+a.	Django Forms
+b.	Bootstraps
+c.	URL Pattern & Views
+d.	User Model
+e.	Send Mail
+f.	Templates
+g.	Tests
+h.	Rest API
+
+
+18.	Implement login GUI interface that checks username and password from database. In case of valid username and password display appropriate message

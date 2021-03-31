@@ -1,0 +1,35 @@
+                          CLOUD COMPUTING SYLLABUS
+Course Syllabus 
+
+The course syllabus has been divided into three UNITs. The Unit wise lecture topics is mentioned below:
+
+
+
+Content of the Syllabus
+
+                                                                      UNIT- I                                                        [15]
+
+Cloud Computing Fundamentals: Computing paradigms, Definition, Deployment models: Public, Private, Hybrid, Community. Service models: SaaS, PaaS and IaaS. Layered Architecture of Cloud Computing, NIST model. Benefits and Challenges of Cloud Computing, Applications.
+
+Cloud Service Management: Service Level Agreement, types of SLA, importance of SLA. Service Provider, Cloud Scaling: Scaling up and Scaling Down Services. Cloud Economics: Amazon services, Google App Engine, Microsoft Azure, difference between AWS, GAE and Microsoft Azure.
+
+Microsoft Azure: Introduction, Azure dashboard and services, ARM.
+
+                                                                     UNIT- II                                                         [15]
+
+Resource Management: Introduction, resource provisioning and scheduling. Resource scheduling algorithms.
+
+Virtualization: Concept of virtualization, Taxonomy of Virtualization Techniques, Hypervisor and its types, Pros and cons of Virtualization, Virtual Machine provisioning and lifecycle, Load Balancing and its algorithms.
+
+Traffic Manager: Introduction, Benefits, Types, Managing traffic between datacenters.
+
+VM Migration: Introduction, Approaches, seven step model of migration into cloud, Migration risks and mitigation.
+
+                                                                     UNIT-III                                                      [15]
+
+Data Management:  Challenges with data. Data centers, Storage of data and databases, Data Privacy and Security Issues at different level.
+
+Cloud storage: Storage account, Storage Replications: LRS, ZRS, GRS, RAGRS, Types of storage: blob, file, table, queue.
+
+Security: Benefits, security service providers, Identity and Access Management, AAA administration for Clouds.
+

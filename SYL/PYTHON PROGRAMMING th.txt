@@ -1,0 +1,29 @@
+                                       PYTHON PROGRAMMING
+
+
+Unit-I                                                [15]
+
+Introduction to Python and Basics: Setting up programming environment, Python on different operating systems, Variables, data types.
+
+Introduction Python Data Structures: Lists-Accessing elements,Index position,Using individual values from a list, Changing/Adding and removing Elements, Organizing a list, Loop through an entire list, Avoiding Identation Error, Numerical Lists, Sublist, List comrehension, Tuple, Set, Dictionary- Working with dictionaries, Looping through dictionaries, Nesting, Dictionary comprehension. 
+
+Flow Control Constructs: Conditional Statements: If, If Else, Nested If, elif, Switch; Looping: For, While, Nested loops, Jumping statements: Break, Continue and Pass.
+
+Python Function: Passing arguments, Return Values, Passisng a list, Passing an Arbitrary number of arguments, Function in Modules, Recursive function, Nested functions, Default and flexible arguments, Lambda function, Map() function, Filter function, Reduce() function
+
+Classes: Creating and using a class, Working with classes and Instances, Inheritance, Importing Classes, Python standard library.
+
+ 
+
+Unit-II                                               [15]
+
+Python for Data Analysis and Visualization: Numpy- Numerical operations on Numpy, plotting data from Numpy,Matplotlib- Plotting a simple line graph,random walks, rolling dice with plotly, Pandas-Dataframe, key operations on data frame,plotting data from pandas dataframe, Visualizing repositories using plotly.
+
+Graphical Exploratory Data Analysis(EDA)- Introduction to dataset and 2D scatter plot,3D scatter plot, pair plots, Histogram and Introduction to Probability Density Function,Axis labels, Adjusting the number of bins in a histogram, Bee swarm plot, Interpreting a bee swarm plot, Univariate analysis using PDF and CDF, plot data in ECDFs, computing/comparision the ECDFs. 
+
+Unit-III                                              [15]
+
+Quantitative Exploratory Data Analysis (EDA)-Introduction to summary statistics-Means, Median, Percentile, Outliers, Box plots, Box and whisker plot, Variance, Standard Deviation,Covariance, Scatter plots, Pearson correlation coefficient.
+
+Web Application: Setting up a project-create/activate a virtual environment,Install and create project in Django, create a database, Starting an App-Define/activate modules, Django admin site, define/migrate the entry module,Django shell  
+

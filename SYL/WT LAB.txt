@@ -1,0 +1,36 @@
+                                   WEB TECHNOLOGY LAB SYLLABUS
+
+Unit-I
+
+Creating a simple webpage using PHP.
+Use of conditional statements in PHP.
+Use of looping statements in PHP.
+Creating different types of arrays.
+Usage of array functions.
+
+
+Unit-II
+
+Creating user-defined functions.
+Creating simple applications using PHP.
+Creating a simple table with constraints.
+Insertion, Updating, and Deletion of rows in MYSQL tables.
+Searching of data by different criteria.
+Sorting of data.
+Working with string and date functions.
+Database connectivity in PHP with MySQL
+
+
+Unit-III
+
+WordPress – Installation
+SystemRequirements for WordPress
+Download WordPress
+Create StoreDatabase
+Set-Up Wizard
+Customizing WordPress Website
+Installing WordPress Themes
+Adding Widgets
+WordPress –Installation of Plug-in
+NextGEN Gallery Plugin
+Contact Form 7 Plugin
